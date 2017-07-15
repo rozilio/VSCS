@@ -10,7 +10,7 @@ namespace RunExe.Model
     {
         public string Subject { get; set; }
         public string Description { get; set; }
-        public string Date { get; set; }
+        public DateTime Date { get; set; }
 
         //public string GetDate{ get => Date; set => Date = value; }
         //public string GetDescription { get => Description; set => Description = value; }

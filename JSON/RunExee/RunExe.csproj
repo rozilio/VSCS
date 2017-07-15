@@ -64,6 +64,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="Src\File.json" />
     <None Include="Src\Read.json" />
   </ItemGroup>
   <ItemGroup>

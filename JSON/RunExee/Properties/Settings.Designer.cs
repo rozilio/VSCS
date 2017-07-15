@@ -31,5 +31,26 @@ namespace RunExe.Properties {
                 return ((string)(this["SrcJson"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\devl\\VSCS\\JSON\\RunExee\\Src\\File.json")]
+        public string DestJson {
+            get {
+                return ((string)(this["DestJson"]));
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("C:\\devl\\VSCS\\JSON\\RunExee\\Src\\File.json")]
+        public string File {
+            get {
+                return ((string)(this["File"]));
+            }
+            set {
+                this["File"] = value;
+            }
+        }
     }
 }
