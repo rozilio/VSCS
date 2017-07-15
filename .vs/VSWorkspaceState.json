@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\JSON",
+    "\\JSON\\JsonFile",
+    "\\JSON\\JsonFile\\Properties",
+    "\\JSON\\JsonFile\\Src"
   ],
   "PreviewInSolutionExplorer": false
 }

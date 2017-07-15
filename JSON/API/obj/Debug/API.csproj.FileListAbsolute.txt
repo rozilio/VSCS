@@ -1,0 +1,5 @@
+C:\devl\VSCS\JSON\API\bin\Debug\API.dll
+C:\devl\VSCS\JSON\API\bin\Debug\API.pdb
+C:\devl\VSCS\JSON\API\obj\Debug\API.csprojResolveAssemblyReference.cache
+C:\devl\VSCS\JSON\API\obj\Debug\API.dll
+C:\devl\VSCS\JSON\API\obj\Debug\API.pdb

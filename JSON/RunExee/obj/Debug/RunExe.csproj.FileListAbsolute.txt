@@ -1,0 +1,9 @@
+C:\devl\VSCS\JSON\RunExee\bin\Debug\Newtonsoft.Json.dll
+C:\devl\VSCS\JSON\RunExee\bin\Debug\Newtonsoft.Json.pdb
+C:\devl\VSCS\JSON\RunExee\bin\Debug\Newtonsoft.Json.xml
+C:\devl\VSCS\JSON\RunExee\obj\Debug\RunExe.csprojResolveAssemblyReference.cache
+c:\devl\VSCS\JSON\RunExee\bin\Debug\RunExe.exe.config
+c:\devl\VSCS\JSON\RunExee\bin\Debug\RunExe.exe
+c:\devl\VSCS\JSON\RunExee\bin\Debug\RunExe.pdb
+c:\devl\VSCS\JSON\RunExee\obj\Debug\RunExe.exe
+c:\devl\VSCS\JSON\RunExee\obj\Debug\RunExe.pdb
